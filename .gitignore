@@ -1,0 +1,6 @@
+*.csv
+*.class
+build/
+**/build/
+nbproject/private/
+**/nbproject/private/
